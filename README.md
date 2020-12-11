@@ -1,24 +1,8 @@
-# README
+#  GraphQL on Rails Tutorial Exploration
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Tutorial: [GraphQL on Rails: From zero to the first query](https://evilmartians.com/chronicles/graphql-on-rails-1-from-zero-to-the-first-query)
+ by:  [Evil Martians](https://evilmartians.com/)
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+For this tutorial, we’re going to use:
+* Ruby 2.6 and Rails 6 (release candidate is already here) for backend.
+* Node.js 9+, React 16.3+, and Apollo (client version 2+) for frontend (and make sure you have yarn installed according to the instruction).
