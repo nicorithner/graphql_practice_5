@@ -45,3 +45,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 
 gem 'graphiql-rails', group: :development
+gem "factory_bot_rails", "~> 5.0", :groups => [:development, :test]
